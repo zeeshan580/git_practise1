@@ -1,0 +1,5 @@
+scp /home/ubuntu/.jenkins/workspace/scriptedpipeline/webapp/target/webapp.war ubuntu@172.31.37.233:/var/lib/tomcat9/webapps/ROOT/index.html
+
+
+
+scp enterpathofwarfile ubuntu@tomcatipaddress:/tomcatwebappfolderpath
