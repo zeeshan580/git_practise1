@@ -1,0 +1,11 @@
+•	Created Jenkins jobs for CI & CD process.
+•	Built up CI/CD pipeline using Git, Ant, Maven and Jenkins for JAVA applications.
+•	Created nodes in Jenkins for load balancing and created user and permission in Jenkins.
+•	Creating new jobs in Jenkins and managing the build related issues. 
+•	Installing Plug-in in Jenkins as per project requirements.
+        Having good experience with configuration management took like Ansible for creating playbooks
+        Creating knowledge on kubernetes
+        Managing AWS cloud environments such as EC2, VPC, AMI, IAM, EBC, S3, Cloudwatch and cloud Trail
+        Attaching volumes and taking backup's as per customer request
+        
+        
